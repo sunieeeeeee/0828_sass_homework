@@ -1,0 +1,9 @@
+@use './variable' as *;
+
+
+@mixin flex ($display: flex, $juc:center) {
+  display: $display;
+  justify-content: $juc;
+  @content
+}
+

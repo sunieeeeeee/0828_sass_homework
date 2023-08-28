@@ -1,0 +1,33 @@
+
+
+배경칼라
+#fff   e8e8e8(어두운칼라) #fafafa(연한칼라)
+글자칼라: 
+#25282c(진한칼라) 
+#212121(보통글자)
+#aaaaaa(연한칼라)
+#ca7379(red)
+
+글자크기
+ 작은것 : 11
+ 내브: 12px   
+ 강조: 14
+ hn : 40
+
+ 콘텐츠 : 1173px;
+ 크기 -> 90px,190px, 50px
+ 여백: 12, 50px 30px 10px
+
+
+
+
+----------------------------------------------
+1. 컬러관련 - background-color, 
+2. 위치관련 - position, left, right, top, bottom
+3. 수치관련(콘텐츠 크기, 그외 크기, 여백) - width, height, margin, padding
+4. 정렬관련 - display, justify-content, flex-direction, flex-wrap, margin: 0 auto;
+5. 색상관련 - bakcground-color, color
+6. 폰트관련 - font-size, font-weight, border-radius(폰트크기/2), text-align
+
+
+
